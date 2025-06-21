@@ -1,4 +1,3 @@
-````markdown
 # 🐂 Bulls and Cows 猜数字游戏（C语言实现）
 
 Welcome to the **Bulls and Cows** number guessing game written in C.  
